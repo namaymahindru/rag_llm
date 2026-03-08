@@ -20,6 +20,7 @@ def add_chunks_to_store(chunks: list):
 
 def get_retriever():
     vector_store = get_vector_store()
+    
 
     return vector_store.as_retriever(
 
