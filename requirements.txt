@@ -1,0 +1,17 @@
+# Web scraping
+trafilatura
+
+# LangChain ecosystem
+langchain
+langchain-openai          # OpenAI connector for LangChain
+langchain-chroma          # ChromaDB connector for LangChain
+langchain-community
+
+# Vector DB (runs locally on your machine)
+chromadb
+
+# UI
+streamlit
+
+# Utilities
+python-dotenv
